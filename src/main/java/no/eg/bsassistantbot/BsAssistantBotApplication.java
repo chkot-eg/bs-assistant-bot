@@ -1,6 +1,7 @@
 package no.eg.bsassistantbot;
 
 
+
 import apps.platform.client.service.EnableEgAppsService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
